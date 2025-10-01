@@ -1,7 +1,7 @@
 # Project Overview
 Finding the relationship between the number of immigrants on Social Capital of US States
 
-# Description:
+# Description
 - [social_capital.ipynb](social_capital.ipynb): Code with output
 - [regression.py](regression.py): Pipeline, without output
 
