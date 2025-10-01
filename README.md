@@ -1,6 +1,10 @@
 # Project Overview
 Finding the relationship between the number of immigrants on Social Capital of US States
 
+# Description:
+- [social_capital.ipynb](social_capital.ipynb): Code with output
+- [regression.py](regression.py): Pipeline, without output
+
 # Economic & Social Indicators
 
 Below is a curated list of official sources for key economic and social indicators in the United States being used for this analysis. 
